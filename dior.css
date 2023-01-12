@@ -1,0 +1,234 @@
+
+.header{
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    border-bottom: 0.3px solid rgb(201, 195, 195);
+
+    
+}
+body{
+    margin: 0%;
+    overflow-x: hidden;
+}
+h3{
+    margin: 0;
+}
+.subhead1{
+    width: 15%;
+    font-size: 11px;
+    font-family: 'Spectral', serif;
+    padding: 20px;
+    padding-left: 40px;
+
+
+}
+.subhead2{
+    width: 15%;
+    font-weight: 100;
+    font-family: 'Spectral', serif;
+    font-size: 12px;
+    display: flex;
+    padding-top: 5px;
+}
+.subhead3{
+   
+    width: 60%;
+    font-family: 'Zilla Slab', serif;
+    padding-left: 316px;
+    position: relative;
+    top:-14px;
+}
+.subhead4{
+    padding-right: 71px;
+    padding-top: 10px;
+}
+.selection{
+    height: 40px;
+    display: flex;
+    font-family: 'Spectral', serif;
+    font-size: 11px;
+    width: 65%;
+    font-style: italic;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 35px;
+   
+    
+}
+.border{
+    border-bottom: 0.3px solid rgb(201, 195, 195);
+}
+.section1{
+    display: flex;
+    padding:10px;
+}
+.section0:hover{
+    text-decoration: underline 1px solid;
+    cursor: pointer;
+    color: #999999;
+    font-family: 'Zilla Slab', serif;
+  }
+
+
+.section11{
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/39087508/10-int-EN/womens-fashion3_1440_1200.jpg) ;
+    height: 650px;
+    width: 750px;
+    
+    
+}
+.section12{
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/horizon/fashion/fashion-home-components/grid-1-womens-fashion-and-mens-fashion/mens-fashion-22/39140262-2-int-EN/mens-fashion-3-diorxerl-capsule3_1440_1200.jpg?imwidth=960);
+    height: 650px;
+    width: 750px;
+   margin-left: 2px;
+}
+.section2{
+    display: flex;
+    padding:10px;
+}
+.section21{
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/horizon/fashion/fashion-home-components/grid-2-jewelry-timepieces-and-kids/jewelry-timepieces/39075866-2-fre-FR/jewelry-timepieces_1440_1200.jpg?imwidth=960);
+    height: 650px;
+    width: 750px;
+}
+.section22{
+    height: 650px;
+    width: 750px;
+    margin-left: 2px;
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/horizon/fashion/fashion-home-components/grid-3-newsborn-and-maison/maison/39076098-2-fre-FR/maison_1440_1200.jpg?imwidth=960)
+   
+}
+.section3{
+    display: flex;
+    padding:10px;
+}
+.section31{
+    height: 650px;
+    width: 750px;
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/39091452/12-int-EN/kids3_1440_1200.jpg?imwidth=960);
+}
+.section32{
+     background-image: url(https://www.dior.com/couture/var/dior/storage/images/horizon/fashion/fashion-home-components/grid-3-newsborn-and-maison/newsborn/39076028-2-fre-FR/newsborn_1440_1200.jpg?imwidth=960);
+     height: 650px;
+     margin-left: 2px;
+     width: 750px;
+    }
+  .bold{
+    padding-top: 570px;
+    padding-left: 40px;
+    font-size: 16px;
+    color: white;
+    font-family: 'Spectral', serif;
+  } 
+  .under{
+    padding-left: 40px;
+    font-size: 13px;
+    color:black;
+    font-family: 'Zilla Slab', serif;
+
+  }
+  .bold1{
+    padding-top: 570px;
+    padding-left: 40px;
+    font-size: 16px;
+    color: black;
+    font-family: 'Spectral', serif;
+
+  }
+  .under1{
+    padding-left: 40px;
+    font-size: 13px;
+    color: #999999;
+    font-family: 'Zilla Slab', serif;;
+
+  }
+  .final{
+    display: flex;
+    height: 60px;
+    border-bottom: 0.3px solid rgb(201, 195, 195);
+    border-top: 0.3px solid rgb(201, 195, 195);
+    justify-content: space-evenly;
+    font-size: 6px;
+    padding-top: 30px;
+    font-family: 'Spectral', serif;
+  }
+  #special{
+    font-size: 14px;
+   
+    padding-left: 90px;
+  }
+  .final1{
+    padding-top: 3px;
+  }
+  .final1:hover{
+    text-decoration: underline 1px solid;
+    cursor: pointer;
+    color: rgb(245, 14, 129);
+  }
+  #scene{
+    padding-left: 230px;
+}
+#scene1{
+    padding-left: 230px;
+}
+#scene2{
+    padding-left: 100px;
+}
+#scene3{
+    padding-left: 100px;
+}
+#scene4{
+    padding-left: 40px;
+}
+#scene5{
+    padding-left: 40px;
+}
+#scene6{
+    padding-left: 40px;
+}
+.email{
+    padding-left: 10px;
+
+}
+  .finish{
+    height: 400px;
+    display: flex;
+  }
+.finish{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 90px;
+    width: 100%;
+}
+.head1{
+    font-family: 'Zilla Slab', serif;
+    font-size: 12px;
+
+}
+.subhead1{
+    
+    font-family: 'Spectral', serif;
+    font-size: 12px;
+    width: 300px;
+}
+.subfinish1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    width: 20%;
+    
+}
+#emailb{
+    text-decoration: underline 1px solid;
+    font-size: 12px;
+}
+.email1{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    padding: 50px;
+    height: 100px;
+}
